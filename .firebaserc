@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-sign-up-9508e": {
+      "hosting": {
+        "chatapp": [
+          "angular-sign-up-9508e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-sign-up-9508e"
+  }
+}
